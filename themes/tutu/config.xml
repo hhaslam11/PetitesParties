@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showOpenButton="false"
+	showThumbsButton="false"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/tutu_13.jpg"
+	thumbURL="thumbs/tutu_13.jpg"
+	linkURL="images/tutu_13.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_13.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_1.jpg"
+	thumbURL="thumbs/tutu_1.jpg"
+	linkURL="images/tutu_1.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_2.jpg"
+	thumbURL="thumbs/tutu_2.jpg"
+	linkURL="images/tutu_2.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_3.jpg"
+	thumbURL="thumbs/tutu_3.jpg"
+	linkURL="images/tutu_3.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_4.jpg"
+	thumbURL="thumbs/tutu_4.jpg"
+	linkURL="images/tutu_4.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_5.jpg"
+	thumbURL="thumbs/tutu_5.jpg"
+	linkURL="images/tutu_5.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_6.jpg"
+	thumbURL="thumbs/tutu_6.jpg"
+	linkURL="images/tutu_6.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_7.jpg"
+	thumbURL="thumbs/tutu_7.jpg"
+	linkURL="images/tutu_7.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_8.jpg"
+	thumbURL="thumbs/tutu_8.jpg"
+	linkURL="images/tutu_8.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_9.jpg"
+	thumbURL="thumbs/tutu_9.jpg"
+	linkURL="images/tutu_9.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_9.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_10.jpg"
+	thumbURL="thumbs/tutu_10.jpg"
+	linkURL="images/tutu_10.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_11.jpg"
+	thumbURL="thumbs/tutu_11.jpg"
+	linkURL="images/tutu_11.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_11.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tutu_12.jpg"
+	thumbURL="thumbs/tutu_12.jpg"
+	linkURL="images/tutu_12.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\tutu\tutu_12.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

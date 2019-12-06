@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /email/
+Disallow: /font-awesome/
+Disallow: /fonts/
+Disallow: /mail/
+Disallow: /piwik/
+Disallow: /kalebhaslam.xyz/
+Disallow: /js/

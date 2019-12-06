@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showOpenButton="false"
+	showThumbsButton="false"
+	useFullscreenExpand="true"
+	importTitle="NONE"
+
+>
+  <image imageURL="images/pirate7.jpg"
+	thumbURL="thumbs/pirate7.jpg"
+	linkURL="images/pirate7.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate8.jpg"
+	thumbURL="thumbs/pirate8.jpg"
+	linkURL="images/pirate8.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate9.jpg"
+	thumbURL="thumbs/pirate9.jpg"
+	linkURL="images/pirate9.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate9.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate10.jpg"
+	thumbURL="thumbs/pirate10.jpg"
+	linkURL="images/pirate10.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate11.jpg"
+	thumbURL="thumbs/pirate11.jpg"
+	linkURL="images/pirate11.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate11.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate_main1.jpg"
+	thumbURL="thumbs/pirate_main1.jpg"
+	linkURL="images/pirate_main1.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate_main1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate_main2.jpg"
+	thumbURL="thumbs/pirate_main2.jpg"
+	linkURL="images/pirate_main2.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate_main2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate_main3.jpg"
+	thumbURL="thumbs/pirate_main3.jpg"
+	linkURL="images/pirate_main3.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate_main3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate1.jpg"
+	thumbURL="thumbs/pirate1.jpg"
+	linkURL="images/pirate1.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate2.jpg"
+	thumbURL="thumbs/pirate2.jpg"
+	linkURL="images/pirate2.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate3.jpg"
+	thumbURL="thumbs/pirate3.jpg"
+	linkURL="images/pirate3.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate4.jpg"
+	thumbURL="thumbs/pirate4.jpg"
+	linkURL="images/pirate4.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate5.jpg"
+	thumbURL="thumbs/pirate5.jpg"
+	linkURL="images/pirate5.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pirate6.jpg"
+	thumbURL="thumbs/pirate6.jpg"
+	linkURL="images/pirate6.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\pirates\pirate6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,10 @@
+# To set your custom php.ini, add the following line to this file:
+# suphp_configpath /home/yourusername/path/to/php.ini
+# php_value mbstring.func_overload 4 # Required for PWSB support. Please do not uncomment this line.
+
+ErrorDocument 400 http://www.petitesparties.com/error/400.html
+ErrorDocument 401 http://www.petitesparties.com/error/401.html
+ErrorDocument 403 http://www.petitesparties.com/error/403.html
+ErrorDocument 404 http://www.petitesparties.com/error/404.html
+ErrorDocument 500 http://www.petitesparties.com/error/500.html
+

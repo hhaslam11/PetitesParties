@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="false"
+	showThumbsButton="false"
+	backgroundColor="rgba(171,151,187,1)"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/glow-10.jpg"
+	thumbURL="thumbs/glow-10.jpg"
+	linkURL="images/glow-10.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-15.jpg"
+	thumbURL="thumbs/glow-15.jpg"
+	linkURL="images/glow-15.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-15.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-9.jpg"
+	thumbURL="thumbs/glow-9.jpg"
+	linkURL="images/glow-9.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-9.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-11.jpg"
+	thumbURL="thumbs/glow-11.jpg"
+	linkURL="images/glow-11.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-11.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-17.jpg"
+	thumbURL="thumbs/glow-17.jpg"
+	linkURL="images/glow-17.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-17.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-12.jpg"
+	thumbURL="thumbs/glow-12.jpg"
+	linkURL="images/glow-12.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-12.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-2.jpg"
+	thumbURL="thumbs/glow-2.jpg"
+	linkURL="images/glow-2.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-3.jpg"
+	thumbURL="thumbs/glow-3.jpg"
+	linkURL="images/glow-3.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-5.jpg"
+	thumbURL="thumbs/glow-5.jpg"
+	linkURL="images/glow-5.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-7.jpg"
+	thumbURL="thumbs/glow-7.jpg"
+	linkURL="images/glow-7.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-8.jpg"
+	thumbURL="thumbs/glow-8.jpg"
+	linkURL="images/glow-8.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-16.jpg"
+	thumbURL="thumbs/glow-16.jpg"
+	linkURL="images/glow-16.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-16.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-13.jpg"
+	thumbURL="thumbs/glow-13.jpg"
+	linkURL="images/glow-13.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-13.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-14.jpg"
+	thumbURL="thumbs/glow-14.jpg"
+	linkURL="images/glow-14.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-14.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-4.jpg"
+	thumbURL="thumbs/glow-4.jpg"
+	linkURL="images/glow-4.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-6.jpg"
+	thumbURL="thumbs/glow-6.jpg"
+	linkURL="images/glow-6.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/glow-1.jpg"
+	thumbURL="thumbs/glow-1.jpg"
+	linkURL="images/glow-1.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\glow\glow-1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

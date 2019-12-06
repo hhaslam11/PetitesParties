@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showOpenButton="false"
+	showThumbsButton="false"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/ninja-7.jpg"
+	thumbURL="thumbs/ninja-7.jpg"
+	linkURL="images/ninja-7.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\ninja\ninja-7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ninja-8.jpg"
+	thumbURL="thumbs/ninja-8.jpg"
+	linkURL="images/ninja-8.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\ninja\ninja-8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ninja-9.jpg"
+	thumbURL="thumbs/ninja-9.jpg"
+	linkURL="images/ninja-9.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\ninja\ninja-9.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ninja-10.jpg"
+	thumbURL="thumbs/ninja-10.jpg"
+	linkURL="images/ninja-10.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\ninja\ninja-10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ninja-1.jpg"
+	thumbURL="thumbs/ninja-1.jpg"
+	linkURL="images/ninja-1.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\ninja\ninja-1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ninja-2.jpg"
+	thumbURL="thumbs/ninja-2.jpg"
+	linkURL="images/ninja-2.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\ninja\ninja-2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ninja-3.jpg"
+	thumbURL="thumbs/ninja-3.jpg"
+	linkURL="images/ninja-3.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\ninja\ninja-3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ninja-4.jpg"
+	thumbURL="thumbs/ninja-4.jpg"
+	linkURL="images/ninja-4.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\ninja\ninja-4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ninja-5.jpg"
+	thumbURL="thumbs/ninja-5.jpg"
+	linkURL="images/ninja-5.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\ninja\ninja-5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ninja-6.jpg"
+	thumbURL="thumbs/ninja-6.jpg"
+	linkURL="images/ninja-6.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\Dropbox\Documents\PetitesParties\Website\img\parties\ninja\ninja-6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
